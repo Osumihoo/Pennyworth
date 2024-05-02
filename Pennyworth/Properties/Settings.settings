@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pennyworth.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NDB@hanab1:30013</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Desarrollo</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="HanaConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=Hanab1:30013;UserID=SYSTEM;Password=B1AdminH2;Database=NDB</Value>
+    </Setting>
+    <Setting Name="CompanyDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TESTREP</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

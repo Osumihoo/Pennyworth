@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Pennyworth</_PublishTargetUrl>
+    <History>True|2023-10-24T20:38:59.1659719Z;True|2023-10-20T15:21:47.8663286-06:00;True|2023-10-20T11:18:03.0984068-06:00;True|2023-10-19T16:01:03.4991606-06:00;True|2023-10-19T14:46:54.9660173-06:00;True|2023-10-19T11:41:53.9693450-06:00;True|2023-10-19T09:28:04.4901823-06:00;True|2023-10-05T14:18:52.1440019-06:00;True|2023-09-22T14:57:11.8192160-06:00;True|2023-09-22T14:54:03.3587102-06:00;True|2023-09-22T14:32:41.9299319-06:00;True|2023-09-21T16:14:55.0338680-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
+      <publishTime>07/02/2020 16:36:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:56</publishTime>
+    </File>
+    <File Include="bin/Pennyworth.dll">
+      <publishTime>10/24/2023 14:38:58</publishTime>
+    </File>
+    <File Include="bin/Pennyworth.pdb">
+      <publishTime>10/24/2023 14:38:58</publishTime>
+    </File>
+    <File Include="bin/Sap.Data.Hana.v4.5.dll">
+      <publishTime>03/12/2021 16:41:27</publishTime>
+    </File>
+    <File Include="bin/Sap.Data.Hana.v4.5.dll.config">
+      <publishTime>03/12/2021 16:41:09</publishTime>
+    </File>
+    <File Include="bin/Sap.Data.Hana.v4.5.pdb">
+      <publishTime>03/12/2021 16:41:28</publishTime>
+    </File>
+    <File Include="bin/SAPBusinessOneSDK.dll">
+      <publishTime>12/23/2021 17:41:14</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>02/15/2023 18:55:30</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/07/2022 22:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 08:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:18</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/07/2014 23:15:04</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>09/20/2023 17:22:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/24/2023 14:38:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
